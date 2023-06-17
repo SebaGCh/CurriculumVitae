@@ -1,4 +1,15 @@
 
 body{
+    display: grid;
+    justify-items: center;
     text-align: center;
+    justify-content: center;
+    margin: 50px 300px 50px 300px;
+}
+table{
+    align-items: center;
+    border-color: black;
+}
+hr{
+  width: 600px;
 }
